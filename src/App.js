@@ -33,7 +33,7 @@ function App() {
     var lines = string.split("\n");
     var freqMap = {};
     for (var line = 0; line < lines.length; line++) {
-      var words = lines[line].toLowerCase().split(/\W+/);
+      var words = lines[line].toLowerCase().split(/[^'A-Za-z]/);
       words.forEach(function (w) {
           if (!freqMap[w]) {
             freqMap[w] = 0;

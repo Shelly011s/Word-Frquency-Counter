@@ -4,7 +4,7 @@ async function run() {
     const response = await axios.get(
       "https://www.terriblytinytales.com/test.txt"
     );
-    wordFreq(response.data);
+    console.log(wordFreq(response.data));
     //console.log(wordFreq(response.data));
   } catch (error) {
     console.error(error);
