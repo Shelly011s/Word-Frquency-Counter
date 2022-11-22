@@ -1,7 +1,7 @@
 # Code and Library Used
 
 I used *ReactJS* to build the frontend and I have used *nivo* for building and representing the chart.
-My code logic is divided in App.js & barChart.js in src folder. I have fetched the data from the given the link and processed the data accordingly for the desired the results.Clicking on submit will accomplish the task assigned to me.
+My code logic is divided in App.js & barChart.js in src folder. I have fetched the data from the given link and processed the data accordingly for the desired results. Clicking on submit will accomplish the task assigned to me.
 
 # Getting Started with Create React App
 
