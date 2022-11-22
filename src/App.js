@@ -64,6 +64,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h3> {show ?  "": "Click on submit to know top 20 words of given file." }</h3>
+        <a href="https://github.com/Shelly011s/Word-Frquency-Counter"> Link to the gitHub repo</a>
         {show ? (
           <div style={{ height: 500, width: "82%" }}>
             <Bar data={data} />

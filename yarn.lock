@@ -8543,24 +8543,6 @@
   "resolved" "https://registry.npmjs.org/statuses/-/statuses-2.0.1.tgz"
   "version" "2.0.1"
 
-"stem-porter@0.0.1":
-  "integrity" "sha512-xJuy127YOwO4Cv5GPNkFebK9cpgCv2pDeUEVCIXngWjIgQmeH9cjDyk0QV+8coP4SJ6MCQPgUMYXMEQDYflLbw=="
-  "resolved" "https://registry.npmjs.org/stem-porter/-/stem-porter-0.0.1.tgz"
-  "version" "0.0.1"
-
-"stm@0.x.x":
-  "integrity" "sha512-Oa6hinxQFsh/TKdYs+h1Pah1PxP5zF+uqWPtBh6ri43PhuBpI8lHenShsyp1xq/k0WUx8HqwWLL7VM9TeOcjRw=="
-  "resolved" "https://registry.npmjs.org/stm/-/stm-0.0.3.tgz"
-  "version" "0.0.3"
-  dependencies:
-    "stem-porter" "0.0.1"
-    "tkn" "0.x.x"
-
-"stopwords@*":
-  "integrity" "sha512-2OF7/9f5buXrBB8De5ZAC9+g5nIw9SRx9ZsL3Qpz6znSfPEihOmaMnwJxXehynZ9AfRNroHIKEIcsEmRywVXVQ=="
-  "resolved" "https://registry.npmjs.org/stopwords/-/stopwords-0.0.9.tgz"
-  "version" "0.0.9"
-
 "string_decoder@^1.1.1":
   "integrity" "sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA=="
   "resolved" "https://registry.npmjs.org/string_decoder/-/string_decoder-1.3.0.tgz"
@@ -8894,13 +8876,6 @@
   "integrity" "sha512-eHY7nBftgThBqOyHGVN+l8gF0BucP09fMo0oO/Lb0w1OF80dJv+lDVpXG60WMQvkcxAkNybKsrEIE3ZtKGmPrA=="
   "resolved" "https://registry.npmjs.org/thunky/-/thunky-1.1.0.tgz"
   "version" "1.1.0"
-
-"tkn@0.x.x":
-  "integrity" "sha512-+vfTQTqQ6klKyKgcnuCmJYA71u3cfoXrc4PFShj+NVhfmEpjr/aqeN/Jnb+fT9go32oCW3y3Jju1HUUcL19lwA=="
-  "resolved" "https://registry.npmjs.org/tkn/-/tkn-0.0.5.tgz"
-  "version" "0.0.5"
-  dependencies:
-    "stopwords" "*"
 
 "tmpl@1.0.5":
   "integrity" "sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw=="
@@ -9434,13 +9409,6 @@
   "version" "2.0.2"
   dependencies:
     "isexe" "^2.0.0"
-
-"word-freq@^0.0.8":
-  "integrity" "sha512-s1IaJtf3EQdxDjBS0xxqp5aC20WEV75WFxOHe7qFKokkO5OxJvIzskDElpQczUy0CcByEF3+Xnw/0gq41jRGJw=="
-  "resolved" "https://registry.npmjs.org/word-freq/-/word-freq-0.0.8.tgz"
-  "version" "0.0.8"
-  dependencies:
-    "stm" "0.x.x"
 
 "word-wrap@^1.2.3", "word-wrap@~1.2.3":
   "integrity" "sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ=="
