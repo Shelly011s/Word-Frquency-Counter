@@ -58,7 +58,8 @@ function App() {
       }
     }
     run();
-  }, [data]);
+    //console.log("hi");
+  }, []);
 
   return (
     <div className="App">
